@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - WhatTheFk
+    - Scene1
   sceneTemplate: Template/NewNote.md
   ignoredFiles: []
 ---
